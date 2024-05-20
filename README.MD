@@ -1,4 +1,4 @@
-# Observatorio Astronómico
+# Observatorio Astronómico <img src="https://camo.githubusercontent.com/cd122cf1a24b8e8ccb81d65d3995ce9b80cc22d315c9409e09d80aad389006a3/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></strong></h1>
 
 Este proyecto simula un observatorio astronómico que puede gestionar planetas y sus satélites naturales. Está compuesto por tres clases principales: `SateliteNatural`, `Planeta` y `Observatorio`.
 
